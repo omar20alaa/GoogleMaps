@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">GoogleMaps</string>
+    <string name="Google_Maps_Api_Key">AIzaSyCbUJ6kP9K8A9PQM6aQuwBI2kRqRERCvY8</string>
+    <string name="text">Enter Adress, City or Zip Code</string>
+
+
+</resources>
